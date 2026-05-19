@@ -14,7 +14,8 @@
     "./tailwind.preset": "./tailwind.preset.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "tailwind.preset.js"
   ],
   "scripts": {
     "build": "vite build",
