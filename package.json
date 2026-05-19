@@ -1,5 +1,5 @@
 {
-  "name": "@org/ui",
+  "name": "@ph-alligator/ui",
   "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.js",

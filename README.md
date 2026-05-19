@@ -1,22 +1,22 @@
-# @org/ui
+# @ph-alligator/ui
 
 Design system package (shadcn-style components + Tailwind preset) for shell and remotes.
 
 ## Install
 
 ```bash
-npm install @org/ui
+npm install @ph-alligator/ui
 ```
 
 ```ts
-import { Button, Card } from '@org/ui';
-import '@org/ui/styles.css';
+import { Button, Card } from '@ph-alligator/ui';
+import '@ph-alligator/ui/styles.css';
 ```
 
 Tailwind preset:
 
 ```js
-import preset from '@org/ui/tailwind.preset';
+import preset from '@ph-alligator/ui/tailwind.preset';
 ```
 
 ## Build
