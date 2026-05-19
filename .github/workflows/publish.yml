@@ -21,7 +21,7 @@ jobs:
           scope: '@ph-alligator'
           cache: npm
 
-      - run: npm ci
+      - run: npm install
       - run: npm run build
 
       - run: npm publish --access public
